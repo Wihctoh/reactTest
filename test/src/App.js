@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Counter from "./components/Counter";
 import "./styles/App.css";
 
 function App() {
@@ -11,7 +10,7 @@ function App() {
           <div>
             <div className={styles.item}>
               <div className={styles.img}></div>
-              <h2>Car 1</h2>
+              <h2>Car 2</h2>
               <p>Read more</p>
               <button>Read more</button>
             </div>
