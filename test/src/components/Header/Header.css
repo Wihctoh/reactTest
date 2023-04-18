@@ -1,0 +1,37 @@
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+header .header-logo {
+  background-image: url(./logo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 160px;
+  height: 41px;
+  margin-left: 56px;
+}
+header nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+header nav p {
+  font: 400 18px "Mulish";
+  color: #1f1534;
+  opacity: 0.5;
+  padding-right: 40px;
+}
+header nav p:last-child {
+  padding-right: 29px;
+}
+header nav p:hover {
+  font: 700 18px "Mulish";
+  opacity: 1;
+}

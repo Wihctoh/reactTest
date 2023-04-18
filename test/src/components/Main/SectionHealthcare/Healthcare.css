@@ -1,0 +1,39 @@
+.healthcare {
+  margin-top: 86px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+.healthcare .healthcare__text {
+  width: 441px;
+}
+.healthcare .healthcare__text h1 {
+  color: #000;
+  font: 700 48px "Mulish";
+  margin-top: 106px;
+}
+.healthcare .healthcare__text p {
+  font: 300 21px "Mulish";
+  color: #7d7987;
+  margin-top: 25px;
+}
+.healthcare .healthcare__btn {
+  text-align: center;
+  color: white;
+  font: 700 18px "Mulish";
+  background-color: #458ff6;
+  padding: 20px 0;
+  width: 200px;
+  border-radius: 55px;
+  margin-top: 48px;
+}
+.healthcare .healthcare__img {
+  background-image: url(./illustration.png);
+  width: 693px;
+  height: 598px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
