@@ -10,7 +10,9 @@ const Healthcare = () => {
           Trafalgar provides progressive, and affordable healthcare, accessible
           on mobile and online for everyone
         </p>
-        <div className="healthcare__btn">Consult today</div>
+        <a href="#">
+          <div className="healthcare__btn">Consult today</div>
+        </a>
       </div>
 
       <div className="healthcare__img"></div>

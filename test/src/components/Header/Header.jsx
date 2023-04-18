@@ -7,11 +7,21 @@ const Header = () => {
       <div className="header-logo"></div>
 
       <nav>
-        <p>Home</p>
-        <p>Find a doctor</p>
-        <p>Apps</p>
-        <p>Testimonials</p>
-        <p>About us</p>
+        <a href="#">
+          <p>Home</p>
+        </a>
+        <a href="#">
+          <p>Find a doctor</p>
+        </a>
+        <a href="#">
+          <p>Apps</p>
+        </a>
+        <a href="#">
+          <p>Testimonials</p>
+        </a>
+        <a href="#">
+          <p>About us</p>
+        </a>
       </nav>
     </header>
   );

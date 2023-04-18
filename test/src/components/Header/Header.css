@@ -32,6 +32,6 @@ header nav p:last-child {
   padding-right: 29px;
 }
 header nav p:hover {
-  font: 700 18px "Mulish";
+  font: 400 18px "Mulish";
   opacity: 1;
 }

@@ -1,0 +1,16 @@
+* {
+  background-color: #e5e5e5;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  outline: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Mulish";
+  font-style: normal;
+  width: 1302px;
+  margin: 56px auto 0;
+}
