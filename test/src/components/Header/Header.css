@@ -17,21 +17,4 @@ header .header-logo {
   height: 41px;
   margin-left: 56px;
 }
-header nav {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-header nav p {
-  font: 400 18px "Mulish";
-  color: #1f1534;
-  opacity: 0.5;
-  padding-right: 40px;
-}
-header nav p:last-child {
-  padding-right: 29px;
-}
-header nav p:hover {
-  font: 400 18px "Mulish";
-  opacity: 1;
-}
+
