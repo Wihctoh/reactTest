@@ -8,6 +8,8 @@ function App() {
     <div className="App">
       <Header />
       <Healthcare />
+      <Healthcare />
+
     </div>
   );
 }
